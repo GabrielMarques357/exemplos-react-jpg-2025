@@ -1,6 +1,9 @@
 import './style.css'
 import Header from '../../componets/Header'
 import Footer from '../../componets/Footer'
+import List from '../../componets/List'
+import Images from '../../componets/Images'
+import Form from '../../componets/Form'
 
 function Home() {
     return (
@@ -10,10 +13,10 @@ function Home() {
 
 
             <main>
-                {/* <List titulo="Batata" />
+                 <List titulo="Batata" />
                 <List titulo="Aipim" />
                 <Images />
-                <Form /> */}
+                <Form /> 
             </main>
 
 
